@@ -3,7 +3,7 @@
 Made for the Teknofest 2022 Smart Transportation Competition
 
 
-#Important Note About 16x2 LCD Interaction
+<h>Important Note About 16x2 LCD Interaction</h>
 
 To make use of a 16x2 LCD to display the empty spaces available in the parking lot, the following lines of code must be added to StandardFirmata on Arduino.
 
