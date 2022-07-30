@@ -45,10 +45,15 @@ Firmata.begin();
 <b> Parts list of the complete system as used during the competition </b>
 
 x1 Computer, of any sort.
+
 x2 Micro Servos
-2x Webcams, or alternative cameras
-1x Arduino Uno
-1x JHD161A 16x2 LCD
-1x 10K Potentiometer
+
+x2 Webcams, or alternative cameras
+
+x1 Arduino Uno
+
+x1 JHD161A 16x2 LCD
+
+x1 10K Potentiometer
 
 
