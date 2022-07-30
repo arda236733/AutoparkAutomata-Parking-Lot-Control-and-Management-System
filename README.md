@@ -1,4 +1,4 @@
-# AutoparkAutomata-Parking-Lot-Control-and-Management-System
+# AutoparkAutomata Parking Lot Control and Management System
 
 Made for the Teknofest 2022 Smart Transportation Competition
 
