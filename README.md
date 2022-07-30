@@ -39,6 +39,16 @@ Firmata.setFirmwareVersion( FIRMATA_MAJOR_VERSION, FIRMATA_MINOR_VERSION );
 
 Firmata.attach( STRING_DATA, stringDataCallback);
 
-Firmata.begin();  
+Firmata.begin(); 
+
+
+<b> Parts list of the complete system as used during the competition </b>
+
+x1 Computer, of any sort.
+x2 Micro Servos
+2x Webcams, or alternative cameras
+1x Arduino Uno
+1x JHD161A 16x2 LCD
+1x 10K Potentiometer
 
 
